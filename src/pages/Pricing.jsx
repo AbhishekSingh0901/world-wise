@@ -4,6 +4,7 @@ import PageNav from "../components/PageNav";
 export default function Product() {
   return (
     <main className={styles.product}>
+      <PageNav />
       <section>
         <div>
           <h2>
@@ -17,7 +18,11 @@ export default function Product() {
             voluptatem iste.
           </p>
         </div>
-        <img src="img-2.jpg" alt="overview of a large city with skyscrapers" />
+        <img
+          className={styles.productImg}
+          src="img-2.jpg"
+          alt="overview of a large city with skyscrapers"
+        />
       </section>
     </main>
   );
