@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "cityName": "Villasavary",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-12-11T10:59:42.720Z",
+      "notes": "vcxvcx",
+      "position": {
+        "lat": "43.213183300738876",
+        "lng": "2.0654296875000004"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Bucium",
+      "country": "Romania",
+      "emoji": "🇷🇴",
+      "date": "2023-12-11T11:00:20.961Z",
+      "notes": "fgdgdfhfdhfd",
+      "position": {
+        "lat": "46.240651955001695",
+        "lng": "23.181152343750004"
+      },
+      "id": 2
+    }
+  ]
+}
